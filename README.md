@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarryKinchin
 - 🌱 I’m currently studying A level Computer Science, Maths, and Philosophy
-- 📫 How to reach me: facultatem.km@gmail.com
-- ⚡ Fun fact: ...
+- 📫 How to reach me: I'd rather you didn't
+- ⚡ Fun fact: I am not fun
 
 <!---
 HarryKinchin/HarryKinchin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
