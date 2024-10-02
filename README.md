@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **A Level Project**
 
-- 🌱 I’m currently learning: **How to Read**
+- 📚 I’m currently learning: **How to Read**
 
 - 💬 Ask me about: **Koalas**
 
