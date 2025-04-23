@@ -1,9 +1,9 @@
 <h1 align="center">Hello person, I am Harry</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrykinchin" alt="harrykinchin" /> </p>
 
-- 🔭 I’m currently working on: **fuckall**
+- 🔭 I’m currently working on: **n/a**
 
-- 📚 I’m currently learning: **How to Read**
+- 📚 I’m currently learning: **My A-Levels**
 
 - 💬 Ask me about: **Koalas**
 
