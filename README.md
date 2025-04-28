@@ -16,6 +16,6 @@ Programming Languages I can do:
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" alt="Intermediate CSS" width=100>
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="Intermediate JS" width=100>
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/flask/flask-original.svg" alt="Intermediate Flask" width=100>
-  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg" alt="Intermediate SQLite" width=100>
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sqlite/sqlite-original.svg" alt="Advanced SQLite" width=100>
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/raspberrypi/raspberrypi-original.svg" alt="Beginner Raspberry Pi" width=100>
 </p> 
