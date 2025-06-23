@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Booking/Stores Management System**
 
-- 📚 I’m currently learning: **My A-Levels (Exams)**
+- 📚 I’m currently learning: **PHP Website Backend Coding**
 
 - 💬 Ask me about: **Koalas**
 
