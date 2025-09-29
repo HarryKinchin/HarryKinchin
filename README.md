@@ -1,9 +1,9 @@
 <h1 align="center">Hello person, I am Harry</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrykinchin" alt="harrykinchin" /> </p>
 
-- 🔭 I’m currently working on: **Booking/Stores Management System**
+- 🔭 I’m currently working on: **Booking/Stores Management System for WBSG**
 
-- 📚 I’m currently learning: **PHP Website Backend Coding**
+- 📚 I’m currently learning: **PHP and MYSQL Coding**
 
 - 💬 Ask me about: **Koalas**
 
